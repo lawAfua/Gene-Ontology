@@ -39,5 +39,3 @@ In addition to this document, two other files have been provided:
 ## Notes
 
 All this code should run with Python 3 on an ordinary PC or server. CPU and memory requirements should be modest.
-
-Please provide us your code to solve the tasks the day before the interview so that we can familiarize ourselves with your solutions.
